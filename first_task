@@ -1,0 +1,6 @@
+sudo su
+useradd student
+passwd student
+login student
+whoami
+logout
